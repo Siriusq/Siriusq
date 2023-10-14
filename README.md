@@ -35,6 +35,10 @@
 
 
 ### 📝 Latest Blog Posts
+<img 
+  src="./sleepy-kirito.gif" 
+  alt="sleepy-kirito" align="right" height="160px" />
+
 - [Quick Setup Guide for LaTeX in VSCode](https://siriusq.top/en/latex-vscode-quick-config.html)
 - [Accessing Windows Shared Folders on iPhone](https://siriusq.top/en/ios-windows-file-share.html)
 - [Stellaris Mod Creation and Upload Log](https://siriusq.top/en/stellaris-mod.html)
