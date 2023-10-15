@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://siriusq.top"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2_siriusq.top-0E83CD?style=for-the-badge&logo=hexo&logoColor=ffffff"/></a>
   <a href="https://siriusq.top/en/"><img src="https://img.shields.io/badge/Blog%3A_siriusq.top/en/-333333?style=for-the-badge&logo=hexo"/></a>
-  <a href="https://leetcode.com/Siriusq/"><img src="https://img.shields.io/badge/LeetCode_Siriusq-FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff"/></a>
+  <a href="https://leetcode.com/Siriusq/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff"/></a>
   <a href="mailto:siriusq.top@outlook.com"><img src="https://img.shields.io/badge/EMail_siriusq.top%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook"/></a>
 </p>
 
@@ -17,7 +17,7 @@
 - 🎓 Master of Science in Software Development (with Distinction), University of Glasgow
 - 🔮 **Muggles can't see this.** Passed all N.E.W.T.s, Slytherin House, Hogwarts School of Witchcraft and Wizardry
 - 📝 I regularly write articles on [siriusq.top](siriusq.top/en)
-- 📫 How to reach me: eargon.skyle@gmail.com
+- 📫 How to reach me: siriusq.top@outlook.com
 - 📺 Favorite Anime: Sword Art Online
 
 
