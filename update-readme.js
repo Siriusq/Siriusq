@@ -1,20 +1,6 @@
 const fetch = require('node-fetch');
 const fs = require('fs').promises;
 
-const crypto = require('crypto');
-const secret = 'Hi9s$w&bD8JjK+R)qYzZAzg8kRsaEe5G'; // 替换为您在 Webhook 中设置的密钥
-const payload = JSON.stringify(request.body);
-const computedSignature = `sha1=${crypto
-  .createHmac('sha1', secret)
-  .update(payload)
-  .digest('hex')}`;
-const webhookSignature = request.headers['x-hub-signature'];
-if (computedSignature !== webhookSignature) {
-  return response.status(401).send('Unauthorized');
-}
-
-// 继续处理请求
-
 async function updateReadme() {
   const rssUrl = 'https://siriusq.top/en/atom.xml';  // 替换成你的博客的 RSS Feed 链接
 
