@@ -15,13 +15,16 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: 14
+        node-version: 18
 
     - name: Install dependencies
       run: npm install
 
     - name: Install node-fetch
-      run: npm install node-fetch
+      run: npm install node-fetch --save
+      
+    - name: Install feedparser
+      run: npm install feedparser --save
 
     - name: Update README
       run: node update-readme.mjs
