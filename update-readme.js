@@ -1,5 +1,5 @@
-const fetch = require('node-fetch');
-const fs = require('fs').promises;
+import fetch from 'node-fetch';
+import { readFile, writeFile } from 'fs/promises';
 
 async function updateReadme() {
   const rssUrl = 'https://siriusq.top/en/atom.xml';  // 替换成你的博客的 RSS Feed 链接
@@ -22,7 +22,7 @@ async function updateReadme() {
 
     if (posts.length > 0) {
       // 读取 README 文件
-      const readme = await fs.readFile('README.md', 'utf-8');
+      const readme = await readFile('README.md', 'utf-8');
 
       // 更新 README 文件中的标识符内容
       const updatedReadme = readme.replace(
@@ -31,7 +31,7 @@ async function updateReadme() {
       );
 
       // 写回 README 文件
-      await fs.writeFile('README.md', updatedReadme);
+      await writeFile('README.md', updatedReadme);
       console.log('README 更新成功！');
     } else {
       console.error('未能找到博文。');
@@ -42,3 +42,4 @@ async function updateReadme() {
 }
 
 updateReadme();
+
