@@ -41,8 +41,9 @@
   alt="sleepy-kirito" align="right" height="160px" />
 
 <!-- Start_Position -->
+- [Automatically Update the Recent Blog Posts Section in the Profile ReadMe When a GitHub Pages-Based Blog Is Updated.](https://siriusq.top/en/auto-update-profile-latest-blog-posts.html)
 - [Quick Setup Guide for LaTeX in VSCode](https://siriusq.top/en/latex-vscode-quick-config.html)
-- [Accessing Windows Shared Folders on iPhone](https://siriusq.top/en/ios-windows-file-share.html)
+- [Accessing Windows Shared Folders on iPhone.](https://siriusq.top/en/ios-windows-file-share.html)
 - [Stellaris Mod Creation and Upload Log](https://siriusq.top/en/stellaris-mod.html)
 - [Bongo Paw Clicker Development Summary](https://siriusq.top/en/bongo-paw-blicker.html)
 - [Enabling Integrated Graphics with Discrete Graphics Installed](https://siriusq.top/en/turn-on-igpu.html)
