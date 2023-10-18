@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning AR Foundation, AR Kit and Swift.
 - 🎓 Master of Science in Software Development (with Distinction), University of Glasgow
 - 🔮 **Muggles can't see this.** Passed all N.E.W.T.s, Slytherin House, Hogwarts School of Witchcraft and Wizardry
-- 📝 I regularly write articles on [siriusq.top](siriusq.top/en)
+- 📝 I regularly write articles on [siriusq.top](https://siriusq.top/en/)
 - 📫 How to reach me: siriusq.top@outlook.com
 - 📺 Favorite Anime: Sword Art Online
 
