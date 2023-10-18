@@ -1,0 +1,39 @@
+name: Update Latest Blog Posts CN
+
+on:
+  repository_dispatch:
+    types: [update-my-profile-cn]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Install node-fetch
+      run: npm install node-fetch
+      
+    - name: Install feedparser
+      run: npm install feedparser
+
+    - name: Update CNREADME
+      run: node update-cn-readme.mjs
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add CNREADME.md
+        git commit -m "Update CNREADME with latest blog posts"
+        git push
+
