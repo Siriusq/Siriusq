@@ -41,7 +41,7 @@
   alt="sleepy-kirito" align="right" height="160px" />
 
 <!-- Start_Position -->
-- [在基于GitHub Pages的博客更新时同步更新GitHub简介中的最近博文部分](https://siriusq.top/auto-update-profile-latest-blog-posts.html)
+- [在基于GitHub Pages的博客更新时同步更新GitHub Profile个人信息页的最近博文部分](https://siriusq.top/auto-update-profile-latest-blog-posts.html)
 - [VSCode LaTeX 快速配置指南](https://siriusq.top/latex-vscode-quick-config.html)
 - [iPhone访问Windows共享文件夹](https://siriusq.top/iOS-Windows-File-Share.html)
 - [群星 Mod 制作与上传日志](https://siriusq.top/Stellaris-Mod.html)
