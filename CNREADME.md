@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./image/github-header-image.png)
 
 <p align="center">
   <a href="./README.md"><img src="https://img.shields.io/badge/ENGLISH_README-4285F4?style=for-the-badge&logo=googletranslate&logoColor=ffffff"/></a>
@@ -37,10 +37,11 @@
 
 ### 📝 最新博文
 <img 
-  src="./sleepy-kirito.gif" 
-  alt="sleepy-kirito" align="right" height="160px" />
+  src="./image/yuuki-asuna.gif" 
+  alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+
 - [在基于GitHub Pages的博客更新时同步更新GitHub Profile个人信息页的最近博文部分](https://siriusq.top/auto-update-profile-latest-blog-posts.html)
 - [VSCode LaTeX 快速配置指南](https://siriusq.top/latex-vscode-quick-config.html)
 - [iPhone访问Windows共享文件夹](https://siriusq.top/iOS-Windows-File-Share.html)
@@ -49,3 +50,7 @@
 - [同时启用独显与核显](https://siriusq.top/TurnOniGpu.html)
 - [MacBook Pro 路易十六联名款](https://siriusq.top/MacBookProHeadless.html)
 <!-- End_Position -->
+
+<img 
+  src="./image/sao-startgame.gif" 
+  alt="sleepy-kirito" width=100% />

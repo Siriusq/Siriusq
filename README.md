@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./image/github-header-image.png)
 
 <p align="center">
   <a href="./CNREADME.md"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87_CN_README-4285F4?style=for-the-badge&logo=googletranslate&logoColor=ffffff"/></a>
@@ -37,10 +37,11 @@
 
 ### 📝 Latest Blog Posts
 <img 
-  src="./sleepy-kirito.gif" 
-  alt="sleepy-kirito" align="right" height="160px" />
+  src="./image/yuuki-asuna.gif" 
+  alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+
 - [Automatically Update the Recent Blog Posts Section in the Profile When a GitHub Pages-Based Blog Is Updated.](https://siriusq.top/en/auto-update-profile-latest-blog-posts.html)
 - [Quick Setup Guide for LaTeX in VSCode](https://siriusq.top/en/latex-vscode-quick-config.html)
 - [Accessing Windows Shared Folders on iPhone.](https://siriusq.top/en/ios-windows-file-share.html)
@@ -49,3 +50,7 @@
 - [Enabling Integrated Graphics with Discrete Graphics Installed](https://siriusq.top/en/turn-on-igpu.html)
 - [MacBook Pro Headless](https://siriusq.top/en/macbook-pro-headless.html)
 <!-- End_Position -->
+
+<img 
+  src="./image/sao-startgame.gif" 
+  alt="sleepy-kirito" width=100% />
