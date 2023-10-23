@@ -29,11 +29,26 @@ jobs:
     - name: Update README
       run: node update-readme.mjs
 
+    - name: Check if README has changed
+      id: readme-check
+      run: |
+        git fetch origin main
+        changed_files=$(git diff --name-only origin/main)
+        if echo "$changed_files" | grep -q 'README.md'; then
+          echo "::set-output name=readme_changed::true"
+        else
+          echo "::set-output name=readme_changed::false"
+        fi
+
     - name: Commit and push changes
       run: |
-        git config --local user.name 'github-actions[bot]'
-        git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git commit -m "Update README with latest blog posts"
-        git push
-
+        if [[ "${{ steps.readme-check.outputs.readme_changed }}" == "true" ]]; then
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README with latest blog posts"
+          git push
+        else
+          echo "README.md has not changed. Skipping commit and push."
+        fi
+        
