@@ -32,8 +32,8 @@ jobs:
     - name: Check if README has changed
       id: readme-check
       run: |
-        git fetch origin main
-        changed_files=$(git diff --name-only origin/main)
+        git fetch origin master
+        changed_files=$(git diff --name-only origin/master)
         if echo "$changed_files" | grep -q 'README.md'; then
           echo "::set-output name=readme_changed::true"
         else
@@ -51,4 +51,3 @@ jobs:
         else
           echo "README.md has not changed. Skipping commit and push."
         fi
-        
