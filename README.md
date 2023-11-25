@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="./CNREADME.md"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87_CN_README-4285F4?style=for-the-badge&logo=googletranslate&logoColor=ffffff"/></a>
-  <a href="https://siriusq.top/en/"><img src="https://img.shields.io/badge/Blog%3A_siriusq.top/en/-333333?style=for-the-badge&logo=hexo"/></a>
+  <a href="https://siriusq.top/en/"><img src="https://img.shields.io/badge/Tech Blog-333333?style=for-the-badge&logo=hexo"/></a>
   <a href="https://leetcode.com/Siriusq/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff"/></a>
-  <a href="mailto:siriusq.top@outlook.com"><img src="https://img.shields.io/badge/EMail_siriusq.top%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook"/></a>
+  <a href="https://siriusq.top/cv/"><img src="https://img.shields.io/badge/Academic%20CV-333333?style=for-the-badge&logo=readme&logoColor=%23ffffff&color=%23F44B59"/></a>
+  <a href="mailto:siriusq.top@outlook.com"><img src="https://img.shields.io/badge/EMail Me-0078D4?style=for-the-badge&logo=microsoftoutlook"/></a>
 </p>
 
 ### 👨🏻‍💻 About Me

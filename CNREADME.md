@@ -4,7 +4,8 @@
   <a href="./README.md"><img src="https://img.shields.io/badge/ENGLISH_README-4285F4?style=for-the-badge&logo=googletranslate&logoColor=ffffff"/></a>
   <a href="https://siriusq.top"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2_siriusq.top-333333?style=for-the-badge&logo=hexo"/></a>
   <a href="https://leetcode.com/Siriusq/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff"/></a>
-  <a href="mailto:siriusq.top@outlook.com"><img src="https://img.shields.io/badge/EMail_siriusq.top%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook"/></a>
+  <a href="https://siriusq.top/cv/"><img src="https://img.shields.io/badge/Academic%20CV-333333?style=for-the-badge&logo=readme&logoColor=%23ffffff&color=%23F44B59"/></a>
+  <a href="mailto:siriusq.top@outlook.com"><img src="https://img.shields.io/badge/EMail Me-0078D4?style=for-the-badge&logo=microsoftoutlook"/></a>
 </p>
 
 ### 👨🏻‍💻 关于我
