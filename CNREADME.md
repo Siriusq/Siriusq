@@ -42,13 +42,13 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+- [Rider R2 5.0 伪评测](https://siriusq.top/rider-r2.html)
+- [ITX 装机经验总结](https://siriusq.top/itx-summary.html)
 - [宏碁笔电安装 Linux 后提示 No Bootable Device 的解决方案](https://siriusq.top/linux-no-bootable-device.html)
 - [Grasscutter Windows本地服务器配置记录](https://siriusq.top/grasscutter.html)
 - [Clash Verge Tun 模式配置记录](https://siriusq.top/clash-verge-tun-config.html)
 - [在基于GitHub Pages的博客更新时同步更新GitHub Profile个人信息页最近博文部分](https://siriusq.top/auto-update-profile-latest-blog-posts.html)
 - [VSCode LaTeX 快速配置指南](https://siriusq.top/latex-vscode-quick-config.html)
-- [iPhone访问Windows共享文件夹](https://siriusq.top/iOS-Windows-File-Share.html)
-- [群星 Mod 制作与上传日志](https://siriusq.top/Stellaris-Mod.html)
 <!-- End_Position -->
 
 <img 
