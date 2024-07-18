@@ -42,13 +42,13 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+- [Fix USB Device Detection Issue in VMware Fusion](https://siriusq.top/en/vmware-fusion-usb-fix.html)
+- [Enable 3D Acceleration for macOS Virtual Machines in VMware Fusion](https://siriusq.top/en/enable-gpu-acceleration-in-macos-vm.html)
+- [How to Create a macOS Sonoma Virtual Machine in VMware Fusion](https://siriusq.top/en/vmware-fusion-install-macos-sonoma.html)
+- [How to Download and Create a macOS Sonoma Installation ISO Image](https://siriusq.top/en/create-macos-iso.html)
+- [Fix VMware Bridged Network Not Working on Virtual Machine](https://siriusq.top/en/vmware-workstation-net-fix.html)
 - [Rider R2 5.0 ITX Case Review](https://siriusq.top/en/rider-r2.html)
 - [ITX Installation Experience Summary](https://siriusq.top/en/itx-summary.html)
-- [Solution to No Bootable Device Issue After Installing Linux on Acer Laptop](https://siriusq.top/en/linux-no-bootable-device.html)
-- [Grasscutter Windows Local Server Configuration Guide](https://siriusq.top/en/grasscutter.html)
-- [Clash Verge TUN Mode Configuration Guide](https://siriusq.top/en/clash-verge-tun-config.html)
-- [Automatically Update the Recent Blog Posts Section in the Custom Profile README When a GitHub Pages-Based Blog Is Updated.](https://siriusq.top/en/auto-update-profile-latest-blog-posts.html)
-- [Quick Setup Guide for LaTeX in VSCode](https://siriusq.top/en/latex-vscode-quick-config.html)
 <!-- End_Position -->
 
 <img 
