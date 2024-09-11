@@ -42,13 +42,13 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+- [Steam开机静默启动](https://siriusq.top/steam-silent-startup.html)
 - [修复 VMware Fusion 虚拟机无法访问USB设备](https://siriusq.top/vmware-fusion-usb-fix.html)
 - [为 VMware Fusion 中的 macOS 虚拟机开启 3D 加速](https://siriusq.top/enable-gpu-acceleration-in-macos-vm.html)
 - [在VMware Fusion中安装macOS Sonoma虚拟机](https://siriusq.top/vmware-fusion-install-macos-sonoma.html)
 - [在Mac上创建macOS镜像安装文件](https://siriusq.top/create-macos-iso.html)
 - [VMware Workstation 桥接网络无连接的一种解决方案](https://siriusq.top/vmware-workstation-net-fix.html)
 - [Rider R2 5.0 伪评测](https://siriusq.top/rider-r2.html)
-- [ITX 装机经验总结](https://siriusq.top/itx-summary.html)
 <!-- End_Position -->
 
 <img 
