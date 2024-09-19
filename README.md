@@ -42,13 +42,13 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+- [NexT 8.20 Update Log](https://siriusq.top/en/next-8-20-update-log.html)
 - [Hexo Plugin Development](https://siriusq.top/en/hexo-plugin-development.html)
 - [Silently Launch Steam on System Startup](https://siriusq.top/en/steam-silent-startup.html)
 - [Fix USB Device Detection Issue in VMware Fusion](https://siriusq.top/en/vmware-fusion-usb-fix.html)
 - [Enable 3D Acceleration for macOS Virtual Machines in VMware Fusion](https://siriusq.top/en/enable-gpu-acceleration-in-macos-vm.html)
 - [How to Create a macOS Sonoma Virtual Machine in VMware Fusion](https://siriusq.top/en/vmware-fusion-install-macos-sonoma.html)
 - [How to Download and Create a macOS Sonoma Installation ISO Image](https://siriusq.top/en/create-macos-iso.html)
-- [Fix VMware Bridged Network Not Working on Virtual Machine](https://siriusq.top/en/vmware-workstation-net-fix.html)
 <!-- End_Position -->
 
 <img 
