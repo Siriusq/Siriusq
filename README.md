@@ -45,10 +45,10 @@
 - [NexT 8.20 Update Log](https://siriusq.top/en/next-8-20-update-log.html)
 - [Hexo Plugin Development](https://siriusq.top/en/hexo-plugin-development.html)
 - [Silently Launch Steam on System Startup](https://siriusq.top/en/steam-silent-startup.html)
+- [Block Windows from Automatically Updating AMD GPU Drivers](https://siriusq.top/en/amd-gpu-driver-auto-update-banned.html)
 - [Fix USB Device Detection Issue in VMware Fusion](https://siriusq.top/en/vmware-fusion-usb-fix.html)
 - [Enable 3D Acceleration for macOS Virtual Machines in VMware Fusion](https://siriusq.top/en/enable-gpu-acceleration-in-macos-vm.html)
 - [How to Create a macOS Sonoma Virtual Machine in VMware Fusion](https://siriusq.top/en/vmware-fusion-install-macos-sonoma.html)
-- [How to Download and Create a macOS Sonoma Installation ISO Image](https://siriusq.top/en/create-macos-iso.html)
 <!-- End_Position -->
 
 <img 
