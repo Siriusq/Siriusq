@@ -45,10 +45,10 @@
 - [NexT 8.20 升级日志](https://siriusq.top/next-8-20-update-log.html)
 - [Hexo 插件开发](https://siriusq.top/hexo-plugin-development.html)
 - [Steam开机静默启动](https://siriusq.top/steam-silent-startup.html)
+- [禁止Windows自动更新A卡驱动](https://siriusq.top/amd-gpu-driver-auto-update-banned.html)
 - [修复 VMware Fusion 虚拟机无法访问USB设备](https://siriusq.top/vmware-fusion-usb-fix.html)
 - [为 VMware Fusion 中的 macOS 虚拟机开启 3D 加速](https://siriusq.top/enable-gpu-acceleration-in-macos-vm.html)
 - [在VMware Fusion中安装macOS Sonoma虚拟机](https://siriusq.top/vmware-fusion-install-macos-sonoma.html)
-- [在Mac上创建macOS镜像安装文件](https://siriusq.top/create-macos-iso.html)
 <!-- End_Position -->
 
 <img 
