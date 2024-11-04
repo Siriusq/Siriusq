@@ -42,13 +42,13 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+- [配置 GitHub SSH 远程连接与 GPG 提交签名验证](https://siriusq.top/git-ssh-config.html)
 - [Windows LTSC 文件资源管理器侧边栏 OneDrive 图标异常修复](https://siriusq.top/onedrive-explorer-icon-bug-fix.html)
 - [NexT 8.20 升级日志](https://siriusq.top/next-8-20-update-log.html)
 - [Hexo 插件开发](https://siriusq.top/hexo-plugin-development.html)
 - [Steam开机静默启动](https://siriusq.top/steam-silent-startup.html)
 - [禁止Windows自动更新A卡驱动](https://siriusq.top/amd-gpu-driver-auto-update-banned.html)
 - [修复 VMware Fusion 虚拟机无法访问USB设备](https://siriusq.top/vmware-fusion-usb-fix.html)
-- [为 VMware Fusion 中的 macOS 虚拟机开启 3D 加速](https://siriusq.top/enable-gpu-acceleration-in-macos-vm.html)
 <!-- End_Position -->
 
 <img 
