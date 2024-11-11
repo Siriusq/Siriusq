@@ -42,13 +42,13 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+- [Setting Delayed Startup for OneDrive on Windows](https://siriusq.top/en/onedrive-delay-startup.html)
+- [GitHub SSH Remote Connection Configuration and GPG Commit Signature Verification](https://siriusq.top/en/git-ssh-config.html)
+- [Windows 11 IoT LTSC Reinstallation Guide](https://siriusq.top/en/win-11-iot-ltsc-installation.html)
 - [Fix the OneDrive Icon Issue in the Windows LTSC File Explorer Sidebar](https://siriusq.top/en/onedrive-explorer-icon-bug-fix.html)
 - [NexT 8.20 Update Log](https://siriusq.top/en/next-8-20-update-log.html)
 - [Hexo Plugin Development](https://siriusq.top/en/hexo-plugin-development.html)
 - [Silently Launch Steam on System Startup](https://siriusq.top/en/steam-silent-startup.html)
-- [Block Windows from Automatically Updating AMD GPU Drivers](https://siriusq.top/en/amd-gpu-driver-auto-update-banned.html)
-- [Fix USB Device Detection Issue in VMware Fusion](https://siriusq.top/en/vmware-fusion-usb-fix.html)
-- [Enable 3D Acceleration for macOS Virtual Machines in VMware Fusion](https://siriusq.top/en/enable-gpu-acceleration-in-macos-vm.html)
 <!-- End_Position -->
 
 <img 
