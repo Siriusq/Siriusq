@@ -42,13 +42,13 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+- [Enable HEIC Image Preview in Windows](https://siriusq.top/en/windows-heic.html)
 - [Use Windows Wireless Display to Turn an Old Device into a Secondary Screen](https://siriusq.top/en/windows-wireless-display.html)
 - [Setting Delayed Startup for OneDrive on Windows](https://siriusq.top/en/onedrive-delay-startup.html)
 - [GitHub SSH Remote Connection Configuration and GPG Commit Signature Verification](https://siriusq.top/en/git-ssh-config.html)
 - [Windows 11 IoT LTSC Reinstallation Guide](https://siriusq.top/en/win-11-iot-ltsc-installation.html)
 - [Fix the OneDrive Icon Issue in the Windows LTSC File Explorer Sidebar](https://siriusq.top/en/onedrive-explorer-icon-bug-fix.html)
 - [NexT 8.20 Update Log](https://siriusq.top/en/next-8-20-update-log.html)
-- [Hexo Plugin Development](https://siriusq.top/en/hexo-plugin-development.html)
 <!-- End_Position -->
 
 <img 
