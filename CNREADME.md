@@ -42,13 +42,13 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
+- [Traffic Monitor 阻止关机问题的解决方案](https://siriusq.top/traffic-monitor-prevent-shutdown.html)
 - [在Windows中开启HEIC格式图片预览](https://siriusq.top/windows-heic.html)
 - [Vivo TWS Air 电池更换记录](https://siriusq.top/vivo-tws-air-battery-replacement.html)
 - [借助Windows无线显示器功能将老旧设备设为副屏](https://siriusq.top/windows-wireless-display.html)
 - [Windows 系统设置开机延迟启动 OneDrive](https://siriusq.top/onedrive-delay-startup.html)
 - [配置 GitHub SSH 远程连接与 GPG 提交签名验证](https://siriusq.top/git-ssh-config.html)
 - [Windows 11 IoT LSTC 重装记录](https://siriusq.top/win-11-iot-ltsc-installation.html)
-- [Windows LTSC 文件资源管理器侧边栏 OneDrive 图标异常修复](https://siriusq.top/onedrive-explorer-icon-bug-fix.html)
 <!-- End_Position -->
 
 <img 
