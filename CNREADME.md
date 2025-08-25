@@ -13,10 +13,10 @@
   src="https://github-readme-stats.vercel.app/api?username=Siriusq&show_icons=true&count_private=true&theme=transparent" 
   alt="GitHub Stats" align="right" />
 
-- 🔭 我目前正在寻找 AR/VR 领域的博士职位。
-- 🌱 我目前正在学习 AR Foundation、AR Kit 和 Swift。
+- 🔭 我目前正在寻找 AR/VR 领域的博士职位
+- 🌱 我目前正在学习 AR Foundation、AR Kit 和 Swift
 - 🎓 格拉斯哥大学软件开发专业理学硕士 (with Distinction)
-- 🔮 **麻瓜们看不到这个：** 毕业于霍格沃茨魔法学校斯莱特林学院，通过了所有 N.E.W.T.考试，
+- 🔮 **麻瓜们看不到这个：** 毕业于霍格沃茨魔法学校斯
 - 📝 我经常在 [siriusq.top](https://siriusq.top/) 上写博文
 - 📫 如何联系我：siriusq.top@outlook.com
 - 📺 最爱的动漫： 刀剑神域 / Sword Art Online
@@ -30,7 +30,7 @@
 
 <p align="left"> 
   <a href="https://github.com/tandpfun/skill-icons" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=c,cs,css,html,java,js,latex,md,py,bootstrap,django,dotnet,eclipse,git,idea,nginx,postgres,powershell,sqlite,unity,visualstudio,vscode,autocad,ai,ps,pr,sketchup&theme=dark&perline=9" alt="bootstrap"/> 
+    <img src="https://skillicons.dev/icons?i=c,cs,css,html,java,js,latex,md,py,bootstrap,django,dotnet,flutter,git,androidstudio,nginx,postgres,powershell,sqlite,unity,visualstudio,vscode,autocad,ai,ps,pr,sketchup&theme=dark&perline=9" alt="bootstrap"/> 
   </a>
 </p>
 
