@@ -42,7 +42,7 @@
   alt="sleepy-kirito" align="right" height="180px" />
 
 <!-- Start_Position -->
-- [微软商店软件上架指南](https://siriusq.top/ms-store-publish.html)
+- [微软商店软件上架 Flutter 应用](https://siriusq.top/ms-store-publish.html)
 - [Flutter 构建各平台安装包](https://siriusq.top/flutter-build-installer.html)
 - [ESET 防火墙阻止 WSA 安卓子系统联网问题修复](https://siriusq.top/eset-firewall-block-wsa.html)
 - [Windows 时间同步失败修复](https://siriusq.top/windows-time-sync-failed.html)
