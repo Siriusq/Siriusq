@@ -43,12 +43,12 @@
 
 <!-- Start_Position -->
 - [MacBook 开荒](https://siriusq.top/new-mac-config.html)
-- [wsl2-install](https://siriusq.top/wsl2-install.html)
 - [MuMu 模拟器指定使用核显运行](https://siriusq.top/mumu-igpu.html)
 - [微软商店软件上架 Flutter 应用](https://siriusq.top/ms-store-publish.html)
 - [Flutter 构建各平台安装包](https://siriusq.top/flutter-build-installer.html)
 - [ESET 防火墙阻止 WSA 安卓子系统联网问题修复](https://siriusq.top/eset-firewall-block-wsa.html)
 - [Windows 时间同步失败修复](https://siriusq.top/windows-time-sync-failed.html)
+- [安装 WSA 后 VMware 无法启动和联网问题修复](https://siriusq.top/wsa-vmware-coexist.html)
 <!-- End_Position -->
 
 <img 
